@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Book a demo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>28e0f3db-f919-4202-bc53-3b9bca2c23de</testCaseGuid>
+</TestCaseEntity>

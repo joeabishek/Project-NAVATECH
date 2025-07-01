@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TEST</name>
+   <tag></tag>
+   <elementGuidId>9dab7e35-0ace-4fb7-86b8-20f74b803a8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;bookwithmeBranding_container&quot;]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;bookwithmeBranding_container&quot;]/div/span</value>
+      <webElementGuid>625e7622-08fb-41e7-9e12-b51a548ee660</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
